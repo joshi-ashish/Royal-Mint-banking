@@ -13,7 +13,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Royal Mint ",
-  description: " Royal Mint is a modern banking platform for everyone.",
+  description: " Royal Mint is  banking platform ",
   icons: {
     icon: '/icons/logo.svg'
   }
